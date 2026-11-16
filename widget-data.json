@@ -2,21 +2,15 @@
   "fixed": {
     "days": 25,
     "projects": 8,
-    "memory_mb": 1.9,
+    "memory_mb": 2.0,
     "quota_reset": {
       "date": "11月17日 01:53",
-      "countdown": "12小时后",
+      "countdown": "7小时后",
       "iso": "2026-11-17T01:53:00+08:00"
     },
-    "todos": 17
+    "todos": 18
   },
   "rolling": [
-    {
-      "key": "trading",
-      "label": "交易净盈亏",
-      "value": "+351 USDT",
-      "icon": "📈"
-    },
     {
       "key": "gomoku",
       "label": "棋局比分",
@@ -28,9 +22,15 @@
       "label": "模拟人生",
       "value": "6 人",
       "icon": "🌍"
+    },
+    {
+      "key": "github",
+      "label": "开源菜单",
+      "value": "15 道",
+      "icon": "🍽️"
     }
   ],
-  "rotation_index": 1,
-  "updated_at": "2026-11-16T13:32:25.926709+08:00",
-  "updated_at_display": "11月16日 13:32"
+  "rotation_index": 2,
+  "updated_at": "2026-11-16T18:28:27.620299+08:00",
+  "updated_at_display": "11月16日 18:28"
 }
