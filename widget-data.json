@@ -4,33 +4,33 @@
     "projects": 8,
     "memory_mb": 2.0,
     "quota_reset": {
-      "date": "11月17日 01:53",
-      "countdown": "1小时后",
-      "iso": "2026-11-17T01:53:00+08:00"
+      "date": "11月24日 01:53",
+      "countdown": "6天后",
+      "iso": "2026-11-24T01:53:00+08:00"
     },
     "todos": 18
   },
   "rolling": [
     {
-      "key": "github",
-      "label": "开源菜单",
-      "value": "15 道",
-      "icon": "🍽️"
-    },
-    {
-      "key": "kingdom",
-      "label": "王国金库",
-      "value": "1456 万金",
-      "icon": "👑"
-    },
-    {
       "key": "trading",
       "label": "交易净盈亏",
-      "value": "-867 USDT",
+      "value": "-1014 USDT",
       "icon": "📈"
+    },
+    {
+      "key": "gomoku",
+      "label": "棋局比分",
+      "value": "莉娅 2 : 2 你",
+      "icon": "♟️"
+    },
+    {
+      "key": "lives",
+      "label": "模拟人生",
+      "value": "6 人",
+      "icon": "🌍"
     }
   ],
-  "rotation_index": 4,
-  "updated_at": "2026-11-17T00:29:07.610521+08:00",
-  "updated_at_display": "11月17日 00:29"
+  "rotation_index": 1,
+  "updated_at": "2026-11-17T06:28:59.076856+08:00",
+  "updated_at_display": "11月17日 06:28"
 }
