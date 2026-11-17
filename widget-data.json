@@ -12,12 +12,6 @@
   },
   "rolling": [
     {
-      "key": "gomoku",
-      "label": "棋局比分",
-      "value": "莉娅 2 : 2 你",
-      "icon": "♟️"
-    },
-    {
       "key": "lives",
       "label": "模拟人生",
       "value": "6 人",
@@ -28,9 +22,15 @@
       "label": "开源菜单",
       "value": "15 道",
       "icon": "🍽️"
+    },
+    {
+      "key": "kingdom",
+      "label": "王国金库",
+      "value": "327 万金",
+      "icon": "👑"
     }
   ],
-  "rotation_index": 2,
-  "updated_at": "2026-11-17T12:28:37.072310+08:00",
-  "updated_at_display": "11月17日 12:28"
+  "rotation_index": 3,
+  "updated_at": "2026-11-17T18:28:24.066540+08:00",
+  "updated_at_display": "11月17日 18:28"
 }
