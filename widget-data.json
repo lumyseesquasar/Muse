@@ -1,8 +1,8 @@
 {
   "fixed": {
-    "days": 26,
+    "days": 27,
     "projects": 8,
-    "memory_mb": 2.3,
+    "memory_mb": 2.4,
     "quota_reset": {
       "date": "11月24日 01:53",
       "countdown": "5天后",
@@ -12,15 +12,9 @@
   },
   "rolling": [
     {
-      "key": "kingdom",
-      "label": "王国金库",
-      "value": "327 万金",
-      "icon": "👑"
-    },
-    {
       "key": "trading",
       "label": "交易净盈亏",
-      "value": "-863 USDT",
+      "value": "-1006 USDT",
       "icon": "📈"
     },
     {
@@ -28,9 +22,15 @@
       "label": "棋局比分",
       "value": "莉娅 2 : 3 你",
       "icon": "♟️"
+    },
+    {
+      "key": "lives",
+      "label": "模拟人生",
+      "value": "7 人",
+      "icon": "🌍"
     }
   ],
-  "rotation_index": 0,
-  "updated_at": "2026-11-18T06:28:31.578711+08:00",
-  "updated_at_display": "11月18日 06:28"
+  "rotation_index": 1,
+  "updated_at": "2026-11-18T12:28:27.802290+08:00",
+  "updated_at_display": "11月18日 12:28"
 }
